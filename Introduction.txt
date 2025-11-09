@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is aymen. I am currently learning Git and GitHub to understand version control and collaboration in software projects. 
+I enjoy learning new technologies and look forward to contributing to open-source projects soon.
+Added introduction file
