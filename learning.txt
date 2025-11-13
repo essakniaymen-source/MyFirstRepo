@@ -1,1 +1,1 @@
-I've learned some valuable skills like trouble shouting, linux and foundation skills
+What I have learned from this course is that Git and GitHub are powerful tools for version control and collaboration. I now understand how to create repositories, commit changes, and push my work online.
